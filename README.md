@@ -7,10 +7,12 @@ simple games written in Python:
 
 +stopwatch
 
++rpslS (rock-paper-scissors-lizard-Spock)
+
 requires
 ========
 
-All Games require Tkinter library. It should already be installed by default.
+All Games, except rpslS, require Tkinter library. It should already be installed by default.
 
 If for some reason is not, install python-tk library via apt-get.
 
